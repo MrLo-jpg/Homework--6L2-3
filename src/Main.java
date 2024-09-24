@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) {//Задача 3
         ;
         System.out.println(calculateDeliveryDays(80));
     }
